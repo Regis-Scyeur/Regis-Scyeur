@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 Qui je suis
+## 👋 Qui je suis ?
 
 Je suis **Régis Scyeur, Digital Transformation Architect, Lead Developer, Coach**, basé entre la Belgique et le Maroc. 
 
