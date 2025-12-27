@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Régis Scyeur 
 
 **Digital Transformation Architect • Lead Developer • Coach**
@@ -8,9 +6,9 @@
 
 📍 Belgique & Maroc • 🌍 Remote Available
 
-**. NET Framework • SQL Server • API Integration • DevOps CI/CD • AI • Coaching PNL**
+**. NET Framework • SQL Server • ERP & API Integration • DevOps CI/CD • Data & AI • Coaching PNL**
 
-</div>
+---
 
 ## 👋 Qui je suis ?
 
@@ -93,18 +91,19 @@ J'écoute d'abord. Vraiment. Ton métier, tes contraintes, tes ambitions. Ensuit
 
 ## 🚀 Projets Professionnels : 🦓 ZebraPuma Framework & Ecosystem
 
-| Projet | Description | Version | Licence |
-|--------|-------------|---------|---------|
-| **[ZebraPuma Framework](https://github.com/ZebraPuma/ZebraPuma)** | Framework professionnel . NET pour applications modulaires<br/>• Architecture de plugins extensible<br/>• Support .NET Framework 4.8 et .NET 10<br/>• Services Windows avancés<br/>• Chargement dynamique et auto-découverte | ![Version](https://img.shields.io/badge/version-2.0.6-green) | Propriétaire |
-| **[ZebraPuma Framework Documentation](https://zebrapuma.github.io/ZebraPuma-Framework/)** | Documentation complète du framework<br/>• Guides de démarrage rapide<br/>• Référence API complète<br/>• Exemples de code | [![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://zebrapuma.github.io/ZebraPuma-Framework/) | - |
-| **[ZebraPuma.Plugins](https://github.com/orgs/ZebraPuma/packages?repo_name=ZebraPuma-Framework)** | Package NuGet - Système de plugins extensible<br/>• Chargement dynamique depuis DLL<br/>• Auto-découverte dans les dossiers<br/>• Configuration JSON flexible<br/>• Résolution automatique des dépendances | ![Version](https://img.shields.io/badge/version-2.0.6-blue) | Propriétaire |
-| **[ZebraPuma.System.ServiceProcess](https://github.com/orgs/ZebraPuma/packages?repo_name=ZebraPuma-Framework)** | Package NuGet - Extensions pour services Windows<br/>• Installation/désinstallation de services<br/>• Contrôles Windows Forms<br/>• Surveillance et gestion de l'état<br/>• Intégration complète avec plugins | ![Version](https://img.shields.io/badge/version-2.0.6-blue) | Propriétaire |
 ### 🎯 Points Forts
 - **🏗️ Architecture SDK-Style moderne** : Multi-targeting . NET Framework 4.8 et .NET 10
 - **📦 Distribution NuGet** :  Packages sur GitHub Packages
 - **📚 IntelliSense complet** : Documentation XML intégrée
 - **🔗 CI/CD** : GitHub Actions pour build, tests et publication automatisés
 - **✅ Production-ready** : Utilisé en production chez nos clients
+
+| Projet | Description | Version | Licence |
+|--------|-------------|---------|---------|
+| **[ZebraPuma Framework](https://github.com/ZebraPuma/ZebraPuma)** | Framework professionnel . NET pour applications modulaires<br/>• Architecture de plugins extensible<br/>• Support .NET Framework 4.8 et .NET 10<br/>• Services Windows avancés<br/>• Chargement dynamique et auto-découverte | ![Version](https://img.shields.io/badge/version-2.0.6-green) | Propriétaire |
+| **[ZebraPuma Framework Documentation](https://zebrapuma.github.io/ZebraPuma-Framework/)** | Documentation complète du framework<br/>• Guides de démarrage rapide<br/>• Référence API complète<br/>• Exemples de code | [![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://zebrapuma.github.io/ZebraPuma-Framework/) | - |
+| **[ZebraPuma.Plugins](https://github.com/orgs/ZebraPuma/packages?repo_name=ZebraPuma-Framework)** | Package NuGet - Système de plugins extensible<br/>• Chargement dynamique depuis DLL<br/>• Auto-découverte dans les dossiers<br/>• Configuration JSON flexible<br/>• Résolution automatique des dépendances | ![Version](https://img.shields.io/badge/version-2.0.6-blue) | Propriétaire |
+| **[ZebraPuma.System.ServiceProcess](https://github.com/orgs/ZebraPuma/packages?repo_name=ZebraPuma-Framework)** | Package NuGet - Extensions pour services Windows<br/>• Installation/désinstallation de services<br/>• Contrôles Windows Forms<br/>• Surveillance et gestion de l'état<br/>• Intégration complète avec plugins | ![Version](https://img.shields.io/badge/version-2.0.6-blue) | Propriétaire |
 
 ## 🎓 Projets éducatifs & communautaires (Open Source)
 
@@ -176,35 +175,19 @@ Vous êtes libre de vous inspirer de ce profil ! Si vous l'utilisez comme source
 - **Pour les images et contenus créatifs** — Merci de conserver mon nom lors du partage
 - **N'hésitez pas à me taguer** — J'adore voir comment mon travail inspire les autres ! 
 
-### 📄 Licence
+## 📄 Licence
 
 - **Code** : MIT License — Utilisez librement ! 
 - **Images & Contenu créatif** : CC BY 4.0 — Partagez avec attribution
 
-> ℹ️ Cette licence concerne uniquement ce profil. Chaque dépôt a sa propre licence. 
-
 Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
+
+> Cette licence concerne uniquement ce profil. Chaque dépôt a sa propre licence. 
 
 ## 📫 Me Contacter
 
-<div align="center">
-
-### ⭐ **Diagnostic Flash Gratuit - Roadmap 90 Jours**
-
-**🦓 [Zebra Puma Services](https://zebrapuma.be)** • **🧠 [Un Autre Moi Coaching](https://unautremoi.org/)**
-
-**[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=regis-scyeur&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regis-scyeur/)** 
-
-</div>
-
-## 📚 Mes Activités
-
-- **[Zebra Puma Services](https://zebrapuma.be)** - Transformation Digitale pour PME
-- **[Un Autre Moi Coaching](https://unautremoi.org/)** - Coaching PNL & Développement Personnel
-- **[LinkedIn](https://www.linkedin.com/in/regis-scyeur)** - Profil professionnel & Articles
-
-<div align="center">
+- **[🦓 Zebra Puma Services](https://zebrapuma.be)** - Transformation Digitale pour PME
+- **[🧠 Un Autre Moi Coaching](https://unautremoi.org/)** - Coaching PNL & Développement Personnel
+- **[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=regis-scyeur&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regis-scyeur/)** - Profil professionnel & Articles
 
 **💡 "Écoute et réflexion avant toute transformation, amélioration ou création."**
-
-</div>
