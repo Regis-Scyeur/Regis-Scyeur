@@ -22,14 +22,14 @@ Je suis **Régis Scyeur, Digital Transformation Architect, Lead Developer, Coach
 
 Passionné par **l’humain** et **la technologie**, j’ai vite constaté, alors qu’elles sont essentielles, que ces deux dimensions faisaient souvent défaut dans les entreprises.
 
-Pour combler ce manque, j’ai créé Zebra Puma Services 🦓 et Un Autre Moi Coaching ✨ :
+Pour combler ce manque, j’ai créé **[Zebra Puma Services](https://zebrapuma.be)** 🦓 et **[Un Autre Moi Coaching](https://unautremoi.org/)** ✨ :
 Deux univers complémentaires qui associent accompagnement humain et technologique au service des PME et ETI.
 
 Avec **Zebra Puma Services**, j’accompagne et facilite le changement technologique.
 
 Je guide les choix stratégiques pour garantir la pérennité, la cohérence et le ROI, et j’assure la mise en œuvre concrète : intégration des systèmes, automatisation, exploitation des données et sécurisation des processus.
 
-Avec Un Autre Moi Coaching, j’accompagne le changement humain, pour que les équipes évoluent avec les outils et que la technologie serve l’humain, et non l’inverse.
+Avec **Un Autre Moi Coaching**, j’accompagne le changement humain, pour que les équipes évoluent avec les outils et que la technologie serve l’humain, et non l’inverse.
 Parce que dans un monde où **l’Intelligence Artificielle prend de plus en plus de place**, l’humain reste la clé pour donner du sens et créer de la valeur.
 
 ## 🎯 Ce que je fais
