@@ -8,7 +8,7 @@
 
 📍 Belgique & Maroc • 🌍 Remote Available
 
-**. NET Framework • SQL Server • API Integration • DevOps CI/CD • Coaching PNL**
+**. NET Framework • SQL Server • API Integration • DevOps CI/CD • AI • Coaching PNL**
 
 </div>
 
