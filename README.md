@@ -50,7 +50,7 @@ J'écoute d'abord. Vraiment. Ton métier, tes contraintes, tes ambitions. Ensuit
 
 <div align="center">
     
-![Cycle Agile](assets/zebrapuma-cycle-agile.png)
+![Cycle Agile](assets/zebrapuma-cycle-agile.svg)
 
 </div>
 
